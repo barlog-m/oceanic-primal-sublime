@@ -1,6 +1,6 @@
 {
     "schema_version": "3.0.0",
     "repositories": [
-        "https://github.com/barlog-m/oceanic-primal-sublime/blob/main/oceanic-next-sublime-repository.json"
+        "https://raw.githubusercontent.com/barlog-m/oceanic-primal-sublime/main/oceanic-next-sublime-repository.json"
     ]
 }
