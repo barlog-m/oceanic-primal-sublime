@@ -1,4 +1,4 @@
-# Oceanic Primal theme for Sublime Text
+# Oceanic Primal Color Scheme for Sublime Text
 
 [![GitHub Tags](https://img.shields.io/github/v/tag/barlog-m/oceanic-primal-sublime?color=0298c3&label=version&style=flat-square)](https://github.com/barlog-m/oceanic-primal-sublime/tags)
 [![MIT License](https://img.shields.io/badge/license-MIT-0298c3.svg?style=flat-square)](https://opensource.org/licenses/MIT)
