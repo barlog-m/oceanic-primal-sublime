@@ -1,0 +1,19 @@
+{
+    "schema_version": "3.0.0",
+    "packages": [
+        {
+            "name": "Oceanic Primal Color Scheme",
+            "details": "https://github.com/barlog-m/oceanic-primal-sublime",
+            "readme": "https://github.com/barlog-m/oceanic-primal-sublime/blob/main/README.md",
+            "labels": ["color scheme"],
+            "releases": [
+                {
+                    "sublime_text": "*",
+                    "branch": "main",
+                    "tags": true
+                }
+            ]
+        }
+    ],
+    "dependencies": []
+}
